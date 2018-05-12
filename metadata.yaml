@@ -1,0 +1,33 @@
+_repo: American-Forest-Trees_42124
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42124-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gibson, Henry H.
+    birthdate: 1855
+    gutenberg_agent_id: '41537'
+    url: http://www.gutenberg.org/2009/agents/41537
+  editor:
+    agent_name: Maxwell, Hu
+    birthdate: 1860
+    deathdate: 1927
+    gutenberg_agent_id: '41538'
+    url: http://www.gutenberg.org/2009/agents/41538
+description: ''
+gutenberg_issued: '2013-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42124'
+  lccn: '13016604'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Timber -- United States'
+- !lcc 'SD'
+- !lcsh 'Trees -- United States'
+title: American Forest Trees
+url: http://www.gutenberg.org/ebooks/42124
